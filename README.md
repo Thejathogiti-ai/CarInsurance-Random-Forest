@@ -1,1 +1,1 @@
-# CarInsurance-Logreg
+# CarInsurance-DecisionTree
